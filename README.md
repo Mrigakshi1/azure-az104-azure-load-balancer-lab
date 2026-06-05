@@ -241,6 +241,7 @@ Verified that traffic was distributed across backend servers.
 
 ### Screenshot
 
+![Load Balancer Test](screenshots/11-load-balancer-validation-set-content.png)
 ![Load Balancer Test](screenshots/11-load-balancer-validation.png)
 
 ---
