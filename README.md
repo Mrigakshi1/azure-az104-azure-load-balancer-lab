@@ -245,6 +245,10 @@ Verified that traffic was distributed across backend servers.
 ![Load Balancer Test](screenshots/11-load-balancer-validation-ip.png)
 ![Load Balancer Test](screenshots/11-load-balancer-validation.png)
 
+After several refreshing
+![Load Balancer Test](screenshots/11-load-balancer-validation-vm2.png)
+
+
 ---
 
 # Key Learning Outcomes
