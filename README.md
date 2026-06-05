@@ -298,31 +298,9 @@ The Azure Load Balancer continuously checks the availability of each backend ser
 * Cloud Infrastructure Management
 * Microsoft AZ-104
 
----
 
-# Repository Structure
 
-```text
-azure-load-balancer-lab/
-│
-├── README.md
-│
-├── architecture
-│   └── architecture-diagram.png
-│
-└── screenshots
-    ├── 01-architecture-diagram.png
-    ├── 02-resource-group.png
-    ├── 03-virtual-network.png
-    ├── 04-virtual-machines.png
-    ├── 05-iis-installation.png
-    ├── 06-load-balancer-overview.png
-    ├── 07-backend-pool.png
-    ├── 08-health-probe.png
-    ├── 09-load-balancing-rule.png
-    ├── 10-nsg-http-rule.png
-    └── 11-load-balancer-validation.png
-```
+
 
 ## Conclusion
 
