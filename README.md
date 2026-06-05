@@ -251,6 +251,24 @@ After several refreshing
 
 ---
 
+## Step 11 - Validate Backend Health
+
+Verified that both backend virtual machines were successfully added to the Load Balancer backend pool and monitored through the configured health probe.
+
+The Azure Load Balancer continuously checks the availability of each backend server using the configured TCP health probe on port 80 and only routes traffic to healthy instances.
+
+### Validation
+
+* Backend Pool configured successfully
+* Health Probe status healthy
+* Load Balancer distributed traffic to available backend servers
+* IIS web application accessible through the Load Balancer public IP
+
+### Screenshot
+
+![Backend Health](screenshots/12-backend-pool-health.png)
+
+
 # Key Learning Outcomes
 
 * Azure Load Balancer deployment
