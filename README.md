@@ -124,7 +124,16 @@ VM-Web-02 displays:
 
 ### Screenshot
 
-![IIS Installation](screenshots/05-iis-installation.png)
+VM-Web-01:
+
+![IIS Installation](screenshots/05-iis-installation-bastion-VM1.png)
+![IIS Installation](screenshots/05-iis-installation-VM1.png)
+
+VM-Web-02:
+
+![IIS Installation](screenshots/05-iis-installation-bastion-VM2.png)
+![IIS Installation](screenshots/05-iis-installation-VM2.png)
+
 
 ---
 
